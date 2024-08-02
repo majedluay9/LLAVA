@@ -1,0 +1,46 @@
+2024-07-11 11:06:27,965 - INFO - Script started.
+2024-07-11 11:06:29,470 - INFO - Plotting results for 2015-01-22 11-53-15.
+2024-07-11 11:06:29,701 - INFO - Plot for 2015-01-22 11-53-15 saved successfully.
+2024-07-11 11:06:29,738 - INFO - Plotting results for 2015-01-22 11-54-15.
+2024-07-11 11:06:29,934 - INFO - Plot for 2015-01-22 11-54-15 saved successfully.
+2024-07-11 11:06:29,986 - INFO - Plotting results for 2015-01-22 11-55-15.
+2024-07-11 11:06:30,190 - INFO - Plot for 2015-01-22 11-55-15 saved successfully.
+2024-07-11 11:06:30,230 - INFO - Plotting results for 2015-01-22 11-56-15.
+2024-07-11 11:06:30,428 - INFO - Plot for 2015-01-22 11-56-15 saved successfully.
+2024-07-11 11:06:30,467 - INFO - Plotting results for 2015-01-22 11-57-15.
+2024-07-11 11:06:30,685 - INFO - Plot for 2015-01-22 11-57-15 saved successfully.
+2024-07-11 11:06:30,731 - INFO - Plotting results for 2015-01-22 11-58-15.
+2024-07-11 11:06:31,007 - INFO - Plot for 2015-01-22 11-58-15 saved successfully.
+2024-07-11 11:06:31,044 - INFO - Plotting results for 2015-01-22 11-59-15.
+2024-07-11 11:06:31,359 - INFO - Plot for 2015-01-22 11-59-15 saved successfully.
+2024-07-11 11:06:31,397 - INFO - Plotting results for 2015-01-22 12-00-15.
+2024-07-11 11:06:31,696 - INFO - Plot for 2015-01-22 12-00-15 saved successfully.
+2024-07-11 11:06:31,738 - INFO - Plotting results for 2015-01-22 12-01-15.
+2024-07-11 11:06:32,011 - INFO - Plot for 2015-01-22 12-01-15 saved successfully.
+2024-07-11 11:06:32,048 - INFO - Plotting results for 2015-01-22 12-02-15.
+2024-07-11 11:06:32,283 - INFO - Plot for 2015-01-22 12-02-15 saved successfully.
+2024-07-11 11:06:32,322 - INFO - Plotting results for 2015-01-22 12-03-15.
+2024-07-11 11:06:32,548 - INFO - Plot for 2015-01-22 12-03-15 saved successfully.
+2024-07-11 11:06:32,585 - INFO - Plotting results for 2015-01-22 12-04-15.
+2024-07-11 11:06:32,877 - INFO - Plot for 2015-01-22 12-04-15 saved successfully.
+2024-07-11 11:06:32,918 - INFO - Plotting results for 2015-01-22 12-05-15.
+2024-07-11 11:06:33,178 - INFO - Plot for 2015-01-22 12-05-15 saved successfully.
+2024-07-11 11:06:33,216 - INFO - Plotting results for 2015-01-22 12-06-15.
+2024-07-11 11:06:33,450 - INFO - Plot for 2015-01-22 12-06-15 saved successfully.
+2024-07-11 11:06:33,487 - INFO - Plotting results for 2015-01-22 12-07-15.
+2024-07-11 11:06:33,769 - INFO - Plot for 2015-01-22 12-07-15 saved successfully.
+2024-07-11 11:06:33,806 - INFO - Plotting results for 2015-01-22 12-08-15.
+2024-07-11 11:06:34,090 - INFO - Plot for 2015-01-22 12-08-15 saved successfully.
+2024-07-11 11:06:34,127 - INFO - Plotting results for 2015-01-22 12-09-15.
+2024-07-11 11:06:34,409 - INFO - Plot for 2015-01-22 12-09-15 saved successfully.
+2024-07-11 11:06:34,448 - INFO - Plotting results for 2015-01-22 12-10-15.
+2024-07-11 11:06:34,661 - INFO - Plot for 2015-01-22 12-10-15 saved successfully.
+2024-07-11 11:06:34,701 - INFO - Plotting results for 2015-01-22 12-11-15.
+2024-07-11 11:06:34,946 - INFO - Plot for 2015-01-22 12-11-15 saved successfully.
+2024-07-11 11:06:34,991 - INFO - Plotting results for 2015-01-22 12-12-15.
+2024-07-11 11:06:35,226 - INFO - Plot for 2015-01-22 12-12-15 saved successfully.
+2024-07-11 11:06:35,265 - INFO - Plotting results for 2015-01-22 12-13-15.
+2024-07-11 11:06:35,444 - INFO - Plot for 2015-01-22 12-13-15 saved successfully.
+2024-07-11 11:06:35,486 - INFO - Plotting results for 2015-01-22 12-14-15.
+2024-07-11 11:06:35,698 - INFO - Plot for 2015-01-22 12-14-15 saved successfully.
+2024-07-11 11:06:35,737 - ERROR - An error occurred during script execution: not enough values to unpack (expected 2, got 1)
